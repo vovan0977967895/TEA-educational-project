@@ -1005,4 +1005,10 @@ margin-left: 50px;
 margin-bottom: 40px;
 }
 }
+@media (max-width: 350px) {
+   .menu__close-btn{
+      top: 20px;
+      right: 60px;
+   }
 
+}
