@@ -72,6 +72,7 @@ padding: 0 20px;
    justify-content: space-between;
    position: relative;
    z-index: 2;
+   cursor: pointer;
 }
 .menu__btn span{
    background-color: black;
